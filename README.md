@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="jyothi-swaroop-sai-kuchi-143b07281" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/jyothi-swaroop-sai-kuchi-143b07281?trk=profile-badge">Jyothi Swaroop Sai Kuchi</a></div>
+
               
 [![Gmail Badge]([https://img.shields.io/badge/gmail-181825?style=for-the-badge&logo=gmail&logoColor=EA4335&link=mailto:chanakyavasantha@gmail.com)](mailto:chanakyavasantha@gmail.com](https://mail.google.com/mail/u/2/#inbox))
 
