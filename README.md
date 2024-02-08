@@ -8,8 +8,8 @@
 <div align="center">
 
 
-              
-[![Gmail Badge]([https://img.shields.io/badge/gmail-181825?style=for-the-badge&logo=gmail&logoColor=EA4335&link=mailto:chanakyavasantha@gmail.com)](mailto:chanakyavasantha@gmail.com](https://mail.google.com/mail/u/2/#inbox))
+[![Gmail Badge](https://img.shields.io/badge/gmail-181825?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sreokuchi21@gmail.com)
+
 
 
 ## Technology Stack:
@@ -40,15 +40,15 @@
 
 
 <a>
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=chanakyavasantha&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Stats">
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=swaroopsaikuchi&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Stats">
 </a>
 <a>
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanakyavasantha&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages">
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaroopsaikuchi&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages">
 </a>
 
 
 
-![Swaroop sai kuchi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chanakyavasantha&custom_title=chanakya%20Vasantha's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Swaroop sai kuchi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swaroopsaikuchi&custom_title=Swaroop's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
