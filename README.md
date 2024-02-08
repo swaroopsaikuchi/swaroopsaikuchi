@@ -9,6 +9,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/gmail-181825?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sreokuchi21@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-181825?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jyothi-swaroop-sai-kuchi-143b07281/)
 
 
 
