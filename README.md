@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist and Machine Learning Enthusiast from India</h3>
 
 
-<h4 align="center">Feel free to connect with me here:</h4>
+<h4 align="center">Feel free to connect with me her:</h4>
 
 
 <div align="center">
